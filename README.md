@@ -1,4 +1,6 @@
 # workshop-task--1-
+wesite link: https://cathayward.github.io/workshop-task--1-/
+
 ### workshop 1 task notes
 
 - when i started i knew I wanted t play around with the ellipse function in order to cerate a flower shape, i tried a lot of different ideas out but eventually went to look at the forums on p5.js
